@@ -4,7 +4,7 @@ class MiniCard1 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      width: 160,
+      width: 161,
       height: 120,
       decoration: BoxDecoration(
         gradient: LinearGradient(
